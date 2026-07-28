@@ -1,0 +1,20 @@
+{
+  "docs": [
+    { "id": "1", "name": "Wooden Bookshelf", "description": "Sturdy 5-shelf bookshelf, minor scratches", "category": "Furniture", "condition": "Used", "age_days": 30, "date_added": 1710000000 },
+    { "id": "2", "name": "Office Desk Lamp", "description": "LED desk lamp with adjustable arm", "category": "Home Goods", "condition": "Like New", "age_days": 10, "date_added": 1710200000 },
+    { "id": "3", "name": "Kids Bicycle", "description": "16-inch bicycle, good for ages 4-6", "category": "Outdoor", "condition": "Used", "age_days": 60, "date_added": 1709500000 },
+    { "id": "4", "name": "Dining Table Set", "description": "4-seat dining table with chairs", "category": "Furniture", "condition": "Used", "age_days": 90, "date_added": 1708500000 },
+    { "id": "5", "name": "Microwave Oven", "description": "Compact 700W microwave, fully functional", "category": "Appliances", "condition": "Used", "age_days": 45, "date_added": 1709800000 },
+    { "id": "6", "name": "Yoga Mat", "description": "Non-slip yoga mat, lightly used", "category": "Sports", "condition": "Like New", "age_days": 15, "date_added": 1710100000 },
+    { "id": "7", "name": "Coffee Table", "description": "Glass-top coffee table with metal legs", "category": "Furniture", "condition": "Used", "age_days": 75, "date_added": 1708900000 },
+    { "id": "8", "name": "Blender", "description": "High-speed blender, works perfectly", "category": "Appliances", "condition": "Used", "age_days": 20, "date_added": 1710050000 },
+    { "id": "9", "name": "Bookcase Storage Bins", "description": "Set of 3 fabric storage bins", "category": "Home Goods", "condition": "Like New", "age_days": 5, "date_added": 1710300000 },
+    { "id": "10", "name": "Garden Hose", "description": "50ft expandable garden hose", "category": "Outdoor", "condition": "Used", "age_days": 40, "date_added": 1709900000 },
+    { "id": "11", "name": "Toaster", "description": "2-slice toaster, stainless steel", "category": "Appliances", "condition": "Used", "age_days": 35, "date_added": 1709950000 },
+    { "id": "12", "name": "Armchair", "description": "Comfortable reading armchair, fabric upholstery", "category": "Furniture", "condition": "Used", "age_days": 100, "date_added": 1708200000 },
+    { "id": "13", "name": "Board Game Collection", "description": "Set of 5 classic family board games", "category": "Toys", "condition": "Like New", "age_days": 12, "date_added": 1710150000 },
+    { "id": "14", "name": "Standing Fan", "description": "Oscillating standing fan, 3 speeds", "category": "Appliances", "condition": "Used", "age_days": 55, "date_added": 1709600000 },
+    { "id": "15", "name": "Wall Mirror", "description": "Large decorative wall mirror with wooden frame", "category": "Home Goods", "condition": "Used", "age_days": 65, "date_added": 1709300000 },
+    { "id": "16", "name": "Tennis Racket", "description": "Lightweight tennis racket, includes cover", "category": "Sports", "condition": "Used", "age_days": 25, "date_added": 1710000500 }
+  ]
+}
