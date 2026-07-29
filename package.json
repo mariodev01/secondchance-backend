@@ -12,6 +12,7 @@
     "pino-http": "^11.0.0"
   },
   "scripts": {
-    "import-data": "node util/import-mongo/index.js"
+    "import-data": "node util/import-mongo/index.js",
+    "start": "node app.js"
   }
 }
